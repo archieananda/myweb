@@ -4547,7 +4547,7 @@ a.list-group-item.active > .badge,
   padding: 30px;
   margin-bottom: 30px;
   color: inherit;
-  min-height:1200px;
+  min-height:875px;
 
   background-image: url('../images/bg-header.jpg');
       background-size: 100%;
